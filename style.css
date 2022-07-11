@@ -1,0 +1,11 @@
+.row div{
+    background-color: rgb(176, 139, 211);
+    border: 2px solid;
+}
+#este div{
+    background-color: rgba(43, 180, 180, 0.623);
+    border: 3px solid;
+}
+#tabla{
+    background-color: whitesmoke;
+}
